@@ -1,7 +1,7 @@
 
 #  Andrew Griego's Portfolio
 
-I am electrical engineer major at CSUF and plan to grduate 2028.
+I am electrical engineer major at CSUF and plan to graduate 2028.
 
 ## Favorite CPSC 120 Labs
 
