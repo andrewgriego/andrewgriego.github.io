@@ -11,11 +11,11 @@ My GitHub page is [github.com/andrewgriego](https://github.com/andrewgriego).
 
 * Lab 6, part 1
 
-    This lab was pretty interesting as we made a code that had the user build their sandwich and input the protein, bread, and condiment. Doing this we had to use command line arguments. Once they input the items then we output their order on their screen.
+    Lab 6 part 1, was pretty interesting as we made a code that had the user build their sandwich and input the protein, bread, and condiment. Doing this we had validate the number of arguments is correct, if not we displayed an error saying they have to supply three arguments. We also had to use const variables for command line arguments. Once they input the items then we output their order on their screen.
 
 * Lab 7
 
-    One of my favorite labs was lab 7 as to me it was challenging and different compared to the rest of the labs. We created a code that displayed times that were allowed to park at a certain location and time. We had the users input a time at a place and it would output if it was a valid time or not. We had to use bool as we had to determine if the input was true or false.
+    One of my favorite labs was lab 7 as to me it was challenging and different compared to the rest of the labs. We created a code that displayed times that were allowed to park at a certain location and time. We had the users input a time at a place and it would output if it was a valid time or not. While using bool we had made if statments to determine if the input was true and return false if otherwise.
 
 * Lab 8, part 1
 
