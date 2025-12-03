@@ -5,7 +5,7 @@ I am electrical engineer major at CSUF and plan to graduate 2028.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/andrewgriego.
+My GitHub page is (http://github.com/andrewgriego).
 
 ### Favorite CPSC 120 Labs
 
