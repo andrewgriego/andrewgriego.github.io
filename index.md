@@ -3,7 +3,11 @@
 
 I am electrical engineer major at CSUF and plan to graduate 2028.
 
-## Favorite CPSC 120 Labs
+## Computer Science Projects
+
+My GitHub page is http://github.com/andrewgriego
+
+### Favorite CPSC 120 Labs
 
 * Lab 6, part 1
 This lab was pretty interesting as we made a code that had the user build their sandwich and input the protein, bread, and condiment. Doing this we had to use command line arguments. Once they input the items then we output their order on their screen.
